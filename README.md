@@ -38,3 +38,7 @@ Java Version: J2SDK 1.8+
 ## 📎 License
 
 This project is for educational purposes only.
+NOW SEE SAMPLE PICTURE
+![image](https://github.com/user-attachments/assets/62704a7d-f7f6-4a9e-a715-3d6c04c6d7a5)
+
+
