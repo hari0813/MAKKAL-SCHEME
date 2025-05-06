@@ -27,3 +27,14 @@ Server: Apache Tomcat
 IDE: MyEclipse / NetBeans
 
 Java Version: J2SDK 1.8+
+
+## 📌 Modules
+
+- **Admin Module** – Manage users, schemes, and reports  
+- **User Module** – Apply for schemes and view application status  
+- **Scheme Module** – Display and manage available schemes  
+- **Reports Module** – Generate summaries of accepted/rejected applications
+
+## 📎 License
+
+This project is for educational purposes only.
